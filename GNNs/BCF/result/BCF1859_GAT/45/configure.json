@@ -1,0 +1,18 @@
+{
+  "alpha": 0.567932887313012,
+  "batch_size": 512,
+  "dropout": 0.4375847686346922,
+  "gnn_hidden_feats": 32,
+  "lr": 0.21832607219469125,
+  "num_gnn_layers": 5,
+  "num_heads": 4,
+  "patience": 50,
+  "predictor_hidden_feats": 16,
+  "residual": false,
+  "weight_decay": 0.001572215563301501,
+  "model": "GAT",
+  "n_tasks": 1,
+  "atom_featurizer_type": "attentivefp",
+  "bond_featurizer_type": "attentivefp",
+  "in_node_feats": 39
+}

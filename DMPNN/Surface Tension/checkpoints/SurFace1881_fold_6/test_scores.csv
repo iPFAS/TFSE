@@ -1,0 +1,2 @@
+Task,Mean r2,Standard deviation r2,Fold 0 r2,Mean rmse,Standard deviation rmse,Fold 0 rmse,Mean mae,Standard deviation mae,Fold 0 mae
+Surface,0.8693014058624063,0.0,0.8693014058624063,2.184083024588324,0.0,2.184083024588324,1.333390088614615,0.0,1.333390088614615

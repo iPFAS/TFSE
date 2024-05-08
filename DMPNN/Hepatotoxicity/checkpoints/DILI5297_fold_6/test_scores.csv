@@ -1,0 +1,2 @@
+Task,Mean accuracy,Standard deviation accuracy,Fold 0 accuracy,Mean auc,Standard deviation auc,Fold 0 auc,Mean f1,Standard deviation f1,Fold 0 f1,Mean mcc,Standard deviation mcc,Fold 0 mcc
+Bioactivity,0.7603773584905661,0.0,0.7603773584905661,0.8358590898722627,0.0,0.8358590898722627,0.7678244972577696,0.0,0.7678244972577696,0.5269316838098855,0.0,0.5269316838098855

@@ -1,0 +1,16 @@
+Fold 0
+Model 0 best validation r2 = 0.886914 on epoch 32
+Model 0 test r2 = 0.891784
+Model 0 test rmse = 2.011215
+Model 0 test mae = 1.128655
+Ensemble test r2 = 0.891784
+Ensemble test rmse = 2.011215
+Ensemble test mae = 1.128655
+1-fold cross validation
+	Seed 0 ==> test r2 = 0.891784
+	Seed 0 ==> test rmse = 2.011215
+	Seed 0 ==> test mae = 1.128655
+Overall test r2 = 0.891784 +/- 0.000000
+Overall test rmse = 2.011215 +/- 0.000000
+Overall test mae = 1.128655 +/- 0.000000
+Elapsed time = 0:02:08

@@ -40,4 +40,8 @@ python main_model_hpOpt.py --model molHgt --dirIn data/molnet/DILI5293_c --dirOu
 # MolHGT+
 python main_model_hpOpt.py --model molHgt --dirIn data/molnet/DILI5293_c --dirOut ws/DILI5293 --extFeat 1 --datas seed1 --evals 20 --gpu 1
  ```
-### Generative Models:This includes the four molecular generation methods in this study.The ChemTSv2 model, which is based on recurrent neural networks (RNNs), the ORGAN model, which uses generative adversarial networks (GANs), the variable autoencoders (VAE) model, and the GMtransformer model, which is based on transformers.　
+### Generative Models:This includes the four molecular generation methods in this study.
+- [ChemTSv2: Functional molecular design using de novo molecule generator](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1680)
+* [Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models](https://arxiv.org/abs/1705.10843)
+- [Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2020.565644/full)
+- [Probabilistic generative transformer language models for generative design of molecules](https://link.springer.com/article/10.1186/s13321-023-00759-z)

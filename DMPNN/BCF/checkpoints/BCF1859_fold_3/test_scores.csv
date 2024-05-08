@@ -1,0 +1,2 @@
+Task,Mean r2,Standard deviation r2,Fold 0 r2,Mean rmse,Standard deviation rmse,Fold 0 rmse,Mean mae,Standard deviation mae,Fold 0 mae
+logBCF,0.5898323357657507,0.0,0.5898323357657507,0.9353846923494306,0.0,0.9353846923494306,0.6932772273349758,0.0,0.6932772273349758

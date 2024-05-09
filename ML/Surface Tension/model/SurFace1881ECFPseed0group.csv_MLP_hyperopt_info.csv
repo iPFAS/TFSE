@@ -1,0 +1,4 @@
+dataset,subtask,set,num_of_retained_feature,num_of_compounds,alpha,hidden_layer_sizes,learning_rate,activation,rmse,r2,mae
+SurFace1881ECFPseed0group.csv,Surface,tr,56,1881,2.334450511045485,"(200, 200, 200)",constant,tanh,2.6069160685507806,0.83376585137855,1.913395310333335
+SurFace1881ECFPseed0group.csv,Surface,va,56,1881,2.334450511045485,"(200, 200, 200)",constant,tanh,3.2982435851166803,0.7329364051326385,2.341229337907917
+SurFace1881ECFPseed0group.csv,Surface,te,56,1881,2.334450511045485,"(200, 200, 200)",constant,tanh,3.773149253323498,0.7087928769225007,2.491215975231473

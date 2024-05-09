@@ -1,0 +1,4 @@
+dataset,subtask,set,num_of_retained_feature,num_of_compounds,n_estimators,max_depth,min_samples_leaf,min_impurity_decrease,max_features,rmse,r2,mae
+SurFace1881PaDELminmaxseed0group.csv,Surface,tr,36,1881,50,11,1,8.516286305067537e-05,0.8,1.4557082636675611,0.948165986167863,0.9786531014243013
+SurFace1881PaDELminmaxseed0group.csv,Surface,va,36,1881,50,11,1,8.516286305067537e-05,0.8,3.0995527250514727,0.7641438014683264,1.9504652196107377
+SurFace1881PaDELminmaxseed0group.csv,Surface,te,36,1881,50,11,1,8.516286305067537e-05,0.8,3.466398005843446,0.7542175457063314,1.9266955986549341

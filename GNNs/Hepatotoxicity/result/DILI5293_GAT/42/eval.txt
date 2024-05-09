@@ -1,0 +1,2 @@
+Best val roc_auc_score: 0.6529159519725558
+Test roc_auc_score: 0.6318373872330707
